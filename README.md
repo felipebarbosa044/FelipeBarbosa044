@@ -10,7 +10,7 @@
 
 * Focused on **Backend** development, mainly with Python.
 * Also comfortable working with JavaScript, Node.js, HTML, CSS, and SQL.
-* 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/felipe-barbosa-ribeiro-a93b9a320) · [Instagram](https://www.instagram.com/nesferaz/)
+* Technician in **Systems Development** and **Digital Game Programming**.
 
 ---
 
@@ -79,10 +79,7 @@ A web and mobile platform designed to teach Hardware and Software basics through
 
 ## GitHub Stats 📊
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeBarbosa044&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=2EE6A6&text_color=c9d1d9&icon_color=38BDF8&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBarbosa044&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=2EE6A6&text_color=c9d1d9" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeBarbosa044&theme=transparent&hide_border=true&background=00000000&ring=2EE6A6&fire=38BDF8&currStreakLabel=2EE6A6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </p>
@@ -99,13 +96,16 @@ A web and mobile platform designed to teach Hardware and Software basics through
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-barbosa-ribeiro-a93b9a320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-➜-2EE6A6?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
   </a>
   <a href="https://www.instagram.com/nesferaz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-➜-38BDF8?style=for-the-badge&logo=instagram&logoColor=0d1117&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/FelipeBarbosa044" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-➜-2EE6A6?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub" />
+  </a>
+  <a href="mailto:felipebarbosaribeiro197@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)" alt="Gmail">
   </a>
 </p>
 
